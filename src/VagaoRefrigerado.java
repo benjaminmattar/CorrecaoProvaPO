@@ -1,3 +1,5 @@
+//Questao 3
+
 public class VagaoRefrigerado extends Vagao{
     private int temp;
 
