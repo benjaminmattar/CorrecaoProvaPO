@@ -80,7 +80,7 @@ public class App {
     //a) Herança é observada, visto que existe uma classe "pai" que é a classe "Vagao", e uma classe "filha", que ´a classe "VagaoRefrigerado".
     //b) Polimorfismo é observado nos métodos "ToString()" das classes pai e filho ma herança observada anteriormente, demonstrando uma sobrescrita.
     //c) Sobrecarga é observado no "@Override" que é uitilizado para fazer a sobrecarga do operador de comparação, para que seja possivel comparar dois objetos.
-    //d) 
+    //d) Sobrescrita é observada nos métodos "ToString()" das classes pai e filho citadas na herança observada, as quais tem métodos de mesma função e retorno e nome.
     //e) Não, mas poderia ser utilizado para fazer uma sobrecarga do operador de comparação, ao invés disso, utilizei uma classe
 
 
